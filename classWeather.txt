@@ -1,0 +1,26 @@
+"""Sai Kumar Reddy Gangasani
+
+
+
+
+I will handle one of the user story and create a class called:
+"Weather.py"
+
+
+#" I will do Weather class"
+#" I will import request from Google weather API"
+#" I will focus on the updates of the temperature and windspeed between origin and destination"
+#" I will add night mode"
+
+
+#the name of the classes will be
+class Weather:
+     #start of coding
+
+
+class TempWind:
+      #start of coding
+
+
+class NightMode:
+      #start of coding
