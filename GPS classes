@@ -1,0 +1,20 @@
+#Alhussain Darbi
+
+
+#" I will do GPS class"
+#" I will import request from Google map API"
+#" I will foucs on the time and speed between origin and distention"
+#" I will do speed alert based on cities speed limit by entering place ID"
+
+
+class GPS:
+    # start of coding
+
+
+class Traffic:
+    # start of coding
+
+
+class SpeedAlert:
+    # strt of coding
+    
